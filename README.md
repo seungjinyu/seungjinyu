@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning go, python
 - 📫 How to reach me: seungjinyu93@gmail.com
+- Currently interested in kubernetes CNI
 <!--
 **seungjinyu/seungjinyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
